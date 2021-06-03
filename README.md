@@ -1,24 +1,16 @@
-# README
+# My First Rails App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project I created a test project using Ruby on Rails which allows the user to add, update, and delete cars from a database table.
 
-Things you may want to cover:
+## Built With
+- Ruby
+- Ruby On Rails
+- SQLite3
 
-* Ruby version
+## Live Demo
+To view a live demo of the project click on the following [link](https://warm-journey-76460.herokuapp.com/)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Author
+#### Yuvraj Manoo:
+- [GitHub](https://github.com/YuvrajM108)
+- [LinkedIn](https://www.linkedin.com/in/yuvraj-manoo/)
